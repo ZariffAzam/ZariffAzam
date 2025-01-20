@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @ZariffAzam<br>👀 I’m interested in getting better at Software development<br>🌱 I’m currently learning Computer Science at Universiti Teknologi Malaysia<br>I like candy<br>
+👋 Hi, I’m @ZariffAzam<br>👀 I’m interested in getting better at Software development<br>🌱 I’m currently learning Computer Science at Universiti Teknologi Malaysia<br>:candy: I like candy<br>
+Take a look at my portfolio : https://sites.google.com/graduate.utm.my/zariff-m-azam?usp=sharing
 
 
 ## 🌐 Socials:
