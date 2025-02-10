@@ -11,7 +11,28 @@ Take a look at my portfolio : https://sites.google.com/graduate.utm.my/zariff-m-
 
 # A summary of my projects
 <details>
- <summary>📚 Industrial Talk I</summary>
+ <summary>📚 PC Assembly Workshop </summary>
+  https://github.com/ZariffAzam/TIS_PCAssemblyWorkshop
+</details>
+<details>
+ <summary>📚 Industry Talk 01 (Assignment01) </summary>
+ https://github.com/ZariffAzam/TIS_IndustryTalk-01_Assignment1
+</details>
+<details>
+ <summary>📚 UTM Digital Tour (Assignment02) </summary>
+ https://github.com/ZariffAzam/TIS_UTMDigitalTour_Assignment2
+</details>
+<details>
+ <summary>📚 Industry Talk 02 (Assignment03) </summary>
+ https://github.com/ZariffAzam/TIS_IndustryTalk-02_Assignment3
+</details>
+<details>
+ <summary>📚 Newsletter (Assignment04) </summary>
+ https://github.com/ZariffAzam/TIS_Newsletter_Assignment4
+</details>
+<details>
+ <summary>📚 Design Thinking Project (Handy Lingua) </summary>
+ https://github.com/ZariffAzam/TIS_DesignThinkingProject
 </details>
 
 
